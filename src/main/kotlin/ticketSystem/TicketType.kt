@@ -1,3 +1,5 @@
+package ticketSystem
+
 enum class TicketType(val price: Int) {
 
     SHORT_DISTANCE(10),

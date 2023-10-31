@@ -1,3 +1,5 @@
+package ticketSystem
+
 abstract class Person(
     open val name:String,
     open val surname:String,
