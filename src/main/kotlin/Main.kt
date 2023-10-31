@@ -46,6 +46,7 @@ fun main(args:Array<String>){
 
        val petRetailer:Retailer<Pet> = CatRetailer()
        petRetailer.sell()
+       println()
 
        //Okey but what is the goal of covariance??
 
